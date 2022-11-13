@@ -12,7 +12,7 @@ The website is accessible to any user and the website also offers the possibilit
 
 
 
-![Image](/project-data-of-the-territorial-division-of-Barcelona/images/web_image.png)
+![](/project-data-of-the-territorial-division-of-Barcelona/images/web_image.png)
 
 For this project we are interested in having access to the data of socioeconomic indicators of the neighborhood territorial division of the city of Barcelona.
 
@@ -29,7 +29,7 @@ The official portal provides a poor interface for accessing the data, which, how
 1. **Access through a URL**: To obtain the socio-economic information of the neighborhoods, we have to go one by one by clicking on the link provided on the website. This link allows us to download a pdf file with the information we need.
 
 
-![Image](/project-data-of-the-territorial-division-of-Barcelona/images/pdf_exemple.png)
+![](/project-data-of-the-territorial-division-of-Barcelona/images/pdf_exemple.png)
 
 2. **Data cannot be compared**: As the data for each neighborhood are in pdf files there is no way to compare each of the neighborhoods. Besides, there is no table that gathers all this information. 
 
