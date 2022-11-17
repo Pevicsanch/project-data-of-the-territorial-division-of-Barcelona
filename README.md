@@ -1,7 +1,13 @@
 # Project: socioeconomic indicators of the territorial division of the city of Barcelona
 
-Collecting data from the Barcelona City Hall Open Data Service's API on **socioeconomic indicators of the territorial division** of the city of **Barcelona**.
+Collecting data from the Barcelona City Hall Open Data Service's  on **socioeconomic indicators of the territorial division** of the city of **Barcelona**.
 
+Here we are going to do:
+
++ webscraping
++ download cvs and pdf files
++ Extracting information from pdf files using regular expressions
++ and create a database with the information obtained.
 ____
 
 ## The starting point
@@ -29,7 +35,7 @@ The official portal provides a poor interface for accessing the data, which, how
 1. **Access through a URL**: To obtain the socio-economic information of the neighborhoods, we have to go one by one by clicking on the link provided on the website. This link allows us to download a pdf file with the information we need.
 
 
-![](images/pdf_exemple.png)
+![](images/pdf_exemple.png) r
 
 2. **Data cannot be compared**: As the data for each neighborhood are in pdf files there is no way to compare each of the neighborhoods. Besides, there is no table that gathers all this information. 
 
@@ -46,7 +52,7 @@ ____
 
 _____
 
-+ Access data through the API.
++ Webscraping to get the urls
 + obtain the pdf files for each of the neighborhoods
 + Extract indicators from pdf files
 + Create a database with the extracted information
