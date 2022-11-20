@@ -37,7 +37,9 @@ The official portal provides a poor interface for accessing the data, which, how
 
 ![](images/pdf_exemple.png) 
 
-2. **Data cannot be compared**: As the data for each neighborhood are in pdf files there is no way to compare each of the neighborhoods. Besides, there is no table that gathers all this information.
+2. **Data cannot be compared**: As the data for each neighborhood are in pdf files there is no way to compare each of the neighborhoods. Besides, there is no table that gathers all this information. 
+
+
 ***please note that 2008 data are not available.***
 _____
 ## The challenge
