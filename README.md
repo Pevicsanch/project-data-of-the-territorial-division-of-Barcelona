@@ -35,10 +35,10 @@ The official portal provides a poor interface for accessing the data, which, how
 1. **Access through a URL**: To obtain the socio-economic information of the neighborhoods, we have to go one by one by clicking on the link provided on the website. This link allows us to download a pdf file with the information we need.
 
 
-![](images/pdf_exemple.png) r
+![](images/pdf_exemple.png) 
 
-2. **Data cannot be compared**: As the data for each neighborhood are in pdf files there is no way to compare each of the neighborhoods. Besides, there is no table that gathers all this information. 
-
+2. **Data cannot be compared**: As the data for each neighborhood are in pdf files there is no way to compare each of the neighborhoods. Besides, there is no table that gathers all this information.
+***please note that 2008 data are not available.***
 _____
 ## The challenge
 ____
